@@ -3,9 +3,9 @@
  Apprenez pas a pas les méthodes hacking web en pratique avec ces série de vidéo et le code source téléchargeable gratuitement.
  
  :boom::boom:
- Notion de programmation informatique requis
- Notion de gestion base de données mysql/oracle requis
- Et un cerveau logique et patient.
+ Notion de programmation informatique requis  
+ Notion de gestion base de données mysql/oracle requis  
+ Et un cerveau logique et patient.  
  
  **vidéo #0** : Introduction
  
