@@ -2,9 +2,16 @@
 
  Apprenez pas a pas les méthodes hacking web en pratique avec ces série de vidéo et le code source téléchargeable gratuitement.
  
- vidéo #0 : Introduction
+ :boom::boom:
+ Notion de programmation informatique requis
+ Notion de gestion base de données mysql/oracle requis
+ Et un cerveau logique et patient.
  
- vidéo #1 : exploit robots.txt (code source dossier numero 1)
+ **vidéo #0** : Introduction
+ 
+ **vidéo #1 ** : exploit robots.txt (code source dossier numero 1)
+ 
+
 
 ### Logiciel
 
@@ -32,6 +39,9 @@ $ sudo apt-get install lamp-server^
 ```
 
 serveur online 
+
+Hostpapa (expensive)
+Google ---> Free hosting ou hebergement gratuit
 
 ### Development
 
