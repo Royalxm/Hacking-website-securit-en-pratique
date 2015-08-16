@@ -2,7 +2,8 @@
 
  Apprenez pas a pas les méthodes hacking web en pratique avec ces série de vidéo et le code source téléchargeable gratuitement.
  
- vidéo #1 : exploit robots. (code source dossier numero 1)
+ vidéo #0 : Introduction
+ vidéo #1 : exploit robots.txt (code source dossier numero 1)
 
 ### Logiciel
 
