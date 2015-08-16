@@ -8,8 +8,8 @@
  Et un cerveau logique et patient.  
  
  **vidéo #0** : Introduction  
- **vidéo #1** : exploit robots.txt (code source dossier numero 1)
- 
+ **vidéo #1** : exploit robots.txt (code source dossier numero 1)  
+ **vidéo #2** : Brute-force login (code source dossier numero 2)
 
 
 ### Logiciel
