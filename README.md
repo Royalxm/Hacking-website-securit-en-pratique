@@ -7,8 +7,7 @@
  Notion de gestion base de données mysql/oracle requis  
  Et un cerveau logique et patient.  
  
- **vidéo #0** : Introduction
- 
+ **vidéo #0** : Introduction  
  **vidéo #1** : exploit robots.txt (code source dossier numero 1)
  
 
@@ -26,8 +25,7 @@ Vous avez besoin d'un serveur web local ou online a vous de choisir :
 
 * Mac :
 
-[Mamp](https://www.mamp.info/en/) 
-
+[Mamp](https://www.mamp.info/en/)  
 [Tutoriel video Installation et configuration de Mamp](http://www.sousdoues.com/formations/php/installation-sur-mac/) 
 
 * Linux :
@@ -40,7 +38,7 @@ $ sudo apt-get install lamp-server^
 
 serveur online 
 
-Hostpapa (expensive)
+Hostpapa (expensive)  
 Google ---> Free hosting ou hebergement gratuit
 
 ### Development
