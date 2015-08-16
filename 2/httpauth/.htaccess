@@ -1,0 +1,4 @@
+AuthUserFile /repertoire/de/votre/fichier/.FichierDeMotDePasse 
+AuthName "Accès protégé" 
+AuthType Basic
+Require user admin
