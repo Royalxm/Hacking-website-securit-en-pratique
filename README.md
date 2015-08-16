@@ -9,7 +9,7 @@
  
  **vidéo #0** : Introduction
  
- **vidéo #1 ** : exploit robots.txt (code source dossier numero 1)
+ **vidéo #1** : exploit robots.txt (code source dossier numero 1)
  
 
 
