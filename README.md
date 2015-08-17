@@ -7,8 +7,8 @@
  Notion de gestion base de données mysql/oracle requis  
  Et un cerveau logique et patient.  
  
- **vidéo #0** : [Introduction](https://youtu.be/BFd2Sxxv8AQ)
- **vidéo #1** : [exploit robots.txt (code source dossier numero 1)](https://youtu.be/0f7xRH-45zY)
+ **vidéo #0** : [Introduction](https://youtu.be/BFd2Sxxv8AQ)  
+ **vidéo #1** : [exploit robots.txt (code source dossier numero 1)](https://youtu.be/0f7xRH-45zY)  
  **vidéo #2** : Brute-force login (code source dossier numero 2)
 
 
