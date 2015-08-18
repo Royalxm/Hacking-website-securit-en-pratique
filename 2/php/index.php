@@ -33,5 +33,6 @@ $password = 'r00t';
 		</form>
 	";
 	}
-	
+?>	
 </body>
+</html>
